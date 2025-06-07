@@ -59,7 +59,7 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/Angel/Desktop/test/include"
+					"path" : "C:/Users/Angel/Desktop/Proyectos/Proyectos C++/BasicWindows/include"
 				}
 			],
 			"language" : "CXX",
@@ -92,7 +92,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\Angel\\Desktop\\test\\lib\\libraylib.a",
+				"fragment" : "\"C:\\Users\\Angel\\Desktop\\Proyectos\\Proyectos C++\\BasicWindows\\lib\\libraylib.a\"",
 				"role" : "libraries"
 			},
 			{

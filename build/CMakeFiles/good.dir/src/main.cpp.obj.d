@@ -1,5 +1,5 @@
 CMakeFiles/good.dir/src/main.cpp.obj: \
- C:\Users\Angel\Desktop\test\src\main.cpp \
+ C:\Users\Angel\Desktop\Proyectos\Proyectos\ C++\BasicWindows\src\main.cpp \
  C:/mingw64/include/c++/14.2.0/iostream \
  C:/mingw64/include/c++/14.2.0/bits/requires_hosted.h \
  C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -150,7 +150,7 @@ CMakeFiles/good.dir/src/main.cpp.obj: \
  C:/mingw64/include/c++/14.2.0/bits/ostream.tcc \
  C:/mingw64/include/c++/14.2.0/istream \
  C:/mingw64/include/c++/14.2.0/bits/istream.tcc \
- C:/Users/Angel/Desktop/test/include/raylib.h \
+ C:/Users/Angel/Desktop/Proyectos/Proyectos\ C++/BasicWindows/include/raylib.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
  C:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h

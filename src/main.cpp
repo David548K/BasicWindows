@@ -26,7 +26,7 @@ int main(void)
         BeginDrawing();
 
             ClearBackground(RAYWHITE);
-            DrawText("Well, Hello World", 190, 200, 20, LIGHTGRAY);
+            DrawText("Well, Hi There! :]", 190, 200, 38, DARKGRAY);
 
         EndDrawing();
         //----------------------------------------------------------------------------------

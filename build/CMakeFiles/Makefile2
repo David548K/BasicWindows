@@ -53,10 +53,10 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Angel\Desktop\test
+CMAKE_SOURCE_DIR = "C:\Users\Angel\Desktop\Proyectos\Proyectos C++\BasicWindows"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Angel\Desktop\test\build
+CMAKE_BINARY_DIR = "C:\Users\Angel\Desktop\Proyectos\Proyectos C++\BasicWindows\build"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/good.dir/clean
 CMakeFiles/good.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\good.dir\build.make CMakeFiles/good.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\good.dir\build.make CMakeFiles/good.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Angel\Desktop\test\build\CMakeFiles --progress-num=1,2 "Built target good"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\Angel\Desktop\Proyectos\Proyectos C++\BasicWindows\build\CMakeFiles" --progress-num=1,2 "Built target good"
 .PHONY : CMakeFiles/good.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/good.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Angel\Desktop\test\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Angel\Desktop\Proyectos\Proyectos C++\BasicWindows\build\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/good.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Angel\Desktop\test\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Angel\Desktop\Proyectos\Proyectos C++\BasicWindows\build\CMakeFiles" 0
 .PHONY : CMakeFiles/good.dir/rule
 
 # Convenience name for target.
